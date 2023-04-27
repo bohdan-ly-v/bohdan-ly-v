@@ -35,14 +35,3 @@ I'm well-organized, self-motivated, resourceful, and able to motivate others, wi
 
 </details>
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/bohdan-ly/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=bohdan-ly&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
-
-<img alt='analytics' src='https://profile-counter.glitch.me/bohdan-ly/count.svg' width='0px'>
-
