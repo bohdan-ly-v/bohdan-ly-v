@@ -4,7 +4,7 @@ This is the place where I developing myself as strong Software developer and gre
 - 🔭 &nbsp;I’m currently working on collaborative platform for discovering tech-solutions  🌐
 - 🌱 &nbsp;I’m currently learning UI/UX Design, React and NextJS
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React or building strong enterprise solutions
-- 📫 How to reach me <a href="mailto:bohdan.ly.v@gmail.com" target="_blank">bohdan.ly.v@gmail.com</a>
+- 📫 How to reach me <a href="mailto:bohdan.ly.v@gmail.com" target="_blank">bohdan.ly.v@gmail.com</a> or [t.me/@ly_bh](https://t.me/ly_bh)
 - 👨‍💻 &nbsp;Read more about me at [LinkedIn](https://www.linkedin.com/in/bohdan-ly-v/)
 - ⚡ &nbsp;Fun fact: I like art and games🎮, and was qualified to [INT20H](https://int20h.best-kyiv.org/)
 
